@@ -1,7 +1,5 @@
 # Build-A-Food-Ordering-Application-Using-Amazon-Lex
 
-Build A Food Ordering Application Using Amazon Lex
-
 ## Architectural Diagram
 ![image](https://github.com/user-attachments/assets/640af388-c0f3-432c-ae4d-9c1d6639392a)
 
